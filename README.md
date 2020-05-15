@@ -1,2 +1,2 @@
 # boards
-Notice board app in android and ios 
+Notice board app. fiddling with react native
